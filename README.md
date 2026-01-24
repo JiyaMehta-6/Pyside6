@@ -2,7 +2,7 @@
 
 A simple and educational PySide6 application that demonstrates:
 - ✔ How to build GUIs using PySide6  
-- ✔ How to organize layouts and widgets  
+- ✔ How to organize layouts and widgets   
 - ✔ How to implement theme switching  
 - ✔ How to style Qt applications using Qt Stylesheets (QSS)  
 - ✔ A collection of commonly used widgets for student learning
