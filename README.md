@@ -1,5 +1,5 @@
 # PySide6 Demo
-
+ 
 A simple and educational PySide6 application that demonstrates:
 - ✔ How to build GUIs using PySide6  
 - ✔ How to organize layouts and widgets   
